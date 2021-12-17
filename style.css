@@ -454,6 +454,6 @@ table p {
 
 @media only screen and (max-width: 640px) {
     .page-wrapper::before {
-        min-width: 640px;
+        min-width: 600px;
     }
 }
